@@ -1,0 +1,23 @@
+ul
+{ list-style-type: none;
+display: inline
+}
+
+li
+ { display: inline-block;}
+
+h3 
+{display: inline-block;}
+
+img
+{ display:block;}
+
+.nintendo
+{ background-color: red;}
+
+.ps
+{ background-color: royalblue ;}
+
+.pc
+{ background-color: green;}
+
